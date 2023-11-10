@@ -204,5 +204,5 @@ const DataTable = () => {
   );
 };
 
-// This is comment to check the working of the git
+
 export default DataTable;
